@@ -10,7 +10,8 @@
 
 
 ### A Machine in Action
-https://youtu.be/EM1xYVEcOd8
+https://user-images.githubusercontent.com/26599790/154530634-a4084f31-4077-454d-b018-5f61cd336622.mp4
+Watch the complete video at https://youtu.be/EM1xYVEcOd8
 
 ### Recommended  Wiring Diagram
 
