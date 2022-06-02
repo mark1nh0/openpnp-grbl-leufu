@@ -4,7 +4,7 @@
 
 ### Features
  - Dual Y axis
- - PWM output to control an Remote Control (RC) Servo for Drag Feeder
+ - PWM output to control a Remote Control (RC) Servo for Drag Feeder
  - Support for two actuators
  - Forked from GRBL_VERSION "1.1h" GRBL_VERSION_BUILD "20190830"
 
