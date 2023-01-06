@@ -29,8 +29,8 @@
 
 #ifdef DEFAULTS_GENERIC
   // Grbl generic default settings. Should work across different machines.
-  #define DEFAULT_X_STEPS_PER_MM 44.400
-  #define DEFAULT_Y_STEPS_PER_MM 44.400
+  #define DEFAULT_X_STEPS_PER_MM 80
+  #define DEFAULT_Y_STEPS_PER_MM 80
   #define DEFAULT_Z_STEPS_PER_MM 264.550
   #define DEFAULT_C_STEPS_PER_MM 8.896
   #define DEFAULT_X_MAX_RATE 10000.0 // mm/min
@@ -41,9 +41,9 @@
   #define DEFAULT_Y_ACCELERATION (500.0*60*60) // 10*60*60 mm/min^2 = 10 mm/sec^2
   #define DEFAULT_Z_ACCELERATION (1000.0*60*60) // 10*60*60 mm/min^2 = 10 mm/sec^2
   #define DEFAULT_C_ACCELERATION (2000.0*60*60) // 10*60*60 mm/min^2 = 10 mm/sec^2
-  #define DEFAULT_X_MAX_TRAVEL 310.0 // mm NOTE: Must be a positive value.
-  #define DEFAULT_Y_MAX_TRAVEL 330.0 // mm NOTE: Must be a positive value.
-  #define DEFAULT_Z_MAX_TRAVEL 30.0 // mm NOTE: Must be a positive value.
+  #define DEFAULT_X_MAX_TRAVEL 465.0 // mm NOTE: Must be a positive value.
+  #define DEFAULT_Y_MAX_TRAVEL 480.0 // mm NOTE: Must be a positive value.
+  #define DEFAULT_Z_MAX_TRAVEL 57.0 // mm NOTE: Must be a positive value.
   #define DEFAULT_C_MAX_TRAVEL 0.0	// endless
   #define DEFAULT_SPINDLE_RPM_MAX 1000.0 // rpm
   #define DEFAULT_SPINDLE_RPM_MIN 0.0 // rpm
